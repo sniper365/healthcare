@@ -30,9 +30,7 @@
 
 ### Install Guide
 ##### Read Carefully, Manikanta
-I want to talk to you via skype or telegram, not via freelancer.
-skype: live:.cid.be37e2e9dfbdff95
-Telegram: GfdhjEddy
+
 
 
 

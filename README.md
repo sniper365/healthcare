@@ -30,12 +30,10 @@
 
 ### Install Guide
 ##### Read Carefully, Manikanta
+I want to talk to you via skype or telegram, not via freelancer.
+skype: live:.cid.be37e2e9dfbdff95
+Telegram: GfdhjEddy
 
-ok, friend.
-you didn't understand me yet.
-I wrote several times my skype address.
-don't ask anymore just contact me with this address live:.cid.be37e2e9dfbdff95
-and also here is Telegram: GfdhjEddy
 
 
 

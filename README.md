@@ -1,13 +1,13 @@
-##### HealthCare
+## HealthCare
 ### Decentralized application for managing Health Medical Records
 
 ### Tech stack
 
-# Solidity(0.8.4) for Ethereum Smart contract
-# Truffle for compile and deploy on *localhost 9545*
-# React application being powered by TS and Redux
-# Material UI for providing terrific example
-# Ethers and Web3-react for interacting with Our HealthCare Smart Contract
+#### Solidity(0.8.4) for Ethereum Smart contract
+#### Truffle for compile and deploy on *localhost 9545*
+#### React application being powered by TS and Redux
+#### Material UI for providing terrific example
+#### Ethers and Web3-react for interacting with Our HealthCare Smart Contract
 
 ### Project structure
 

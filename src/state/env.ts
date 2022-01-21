@@ -1,6 +1,6 @@
 const defaultVariables = {
   chainId: 1337,
-  jsonRpcProviderUrl: 'http://127.0.0.1',
+  jsonRpcProviderUrl: 'http://127.0.0.1:9545',
   ipfsUploadUrl: 'https://ipfs.infura.io:5001',
   ipfsDownloadUrl: 'https://ipfs.infura.io/ipfs',
 };

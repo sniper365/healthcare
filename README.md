@@ -29,7 +29,9 @@
 **/test** - Smart contract unit tests
 
 ### Install Guide
-##### For More Details Find Me
+##### For More Details Find Me 
+hi, Manikanta, it's volodymyr. contact me this address, not leave any message about this in freelancer. Got it?
+Skype: live:.cid.be37e2e9dfbdff95   TG: GfdhjEddy
 
 
 

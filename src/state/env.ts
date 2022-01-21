@@ -1,6 +1,6 @@
 const defaultVariables = {
-  chainId: 97,
-  jsonRpcProviderUrl: 'wss://data-seed-prebsc-1-s1.binance.org:8545',
+  chainId: 1337,
+  jsonRpcProviderUrl: 'http://127.0.0.1',
   ipfsUploadUrl: 'https://ipfs.infura.io:5001',
   ipfsDownloadUrl: 'https://ipfs.infura.io/ipfs',
 };

@@ -20,12 +20,10 @@ module.exports = {
       provider: function() {
         return new HDWalletProvider(
           mnemonic,
-          `https://speedy-nodes-nyc.moralis.io/f2da390bb20555ed7e5b0fe4/bsc/testnet`
+          ``
         );
       },
       network_id: 97,
-      // gas: 4500000,
-      // gasPrice: 10000000000,
     },
   },
   compilers: {

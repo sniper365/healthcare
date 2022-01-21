@@ -3,7 +3,7 @@ import HealthCareAbi from '../contracts/HealthCare.json';
 import { useContract } from './useContract';
 
 export function useHealthCareApi(): HealthCareApi {
-  const contractAddress = HealthCareAbi.networks['5777'].address;
+  const contractAddress = HealthCareAbi.networks['97'].address;
   const { functions } = useContract(contractAddress, HealthCareAbi.abi);
   return {
     grantAdminAccess: functions.grantAdminAccess,

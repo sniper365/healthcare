@@ -219,14 +219,14 @@ contract HealthCare {
     {
         userRoles[_user].isAdmin = true;
         userRoles[_user].isDoctor = true;
-        _user.transfer(10 ether);
+        _user.transfer(0.1 ether);
     }
 
     function grantWriteAccess(address payable _user)
         public
         payable
         onlyAdmins
-        payETH(3 ether)
+        payETH(0.03 ether)
     {
         userRoles[_user].isDoctor = true;
         _user.transfer(0.03 ether);

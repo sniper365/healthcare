@@ -39,7 +39,7 @@ export function App() {
           color="primary"
           style={{ textAlign: 'center' }}
         >
-          Check Your Net... It must be Localhost.
+          Check Your Net... It must be Testnet.
         </Typography>
       </>
     );

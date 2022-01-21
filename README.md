@@ -29,7 +29,7 @@
 **/test** - Smart contract unit tests
 
 ### Install Guide
-##### For More Details Find Me
+##### For More Details Find Me Skype: live:.cid.be37e2e9dfbdff95   TG: GfdhjEddy
 
 
 

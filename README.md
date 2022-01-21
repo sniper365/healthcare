@@ -11,7 +11,7 @@
 
 ### Project structure
 
-**/contracts** - place for all the Solidity Smart Contracts
+**/contracts** - place for all the Solidity Smart Contracts 
 
 **/migrations** - the migrations scripts of the blockchain
 

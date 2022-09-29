@@ -28,8 +28,6 @@
 
 **/test** - Smart contract unit tests
 
-### Install Guide 
-##### Read Carefully, Manikanta
 
 
 
